@@ -19,6 +19,13 @@ Nesse projeto vamos focar em desenvolver uma aplicação frontend cumpra os requ
 - 3. espaçamento
 - 4. verticalidade
 - 5. próxima coluna
+- 
+#### Flexbox e Grid principal (feature/flexbox-grid-3)
+- 1. course grid
+- 2. ajustar course grid
+- 3. grid
+- 4. espaçamento grid
+- 5. espaçamento em detalhe
 
 ### Versões do projeto
 
