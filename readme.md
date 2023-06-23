@@ -4,13 +4,21 @@ Nesse projeto vamos focar em desenvolver uma aplicação frontend cumpra os requ
 
 ### Requisitos do projeto
 
-- [x] 1. introdução
-- [ ] 2. ajustar o cabeçalho
-- [ ] 3. o fluxo de logo e menu 
-- [ ] 4. posicionamento
-- [ ] 5. propriedade flex
-- [ ] 6. espaçamento flexbox
-- [ ] 7. alinhamento (vertical)
+#### Flexbox e Cabeçalho (feature/flexbox-cabecalho-1)
+- 1. introdução 
+- 2. ajustar o cabeçalho 
+- 3. o fluxo de logo e menu 
+- 4. posicionamento
+- 5. propriedade flex
+- 6. espaçamento flexbox
+- 7. alinhamento (vertical)
+- 
+#### Flexbox e Cabeçalho (feature/flexbox-footer-2)
+- 1. ajustando o footer
+- 2. course map 
+- 3. espaçamento
+- 4. verticalidade
+- 5. próxima coluna
 
 ### Versões do projeto
 
