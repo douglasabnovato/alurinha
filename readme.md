@@ -38,7 +38,7 @@ Nesse projeto vamos focar em desenvolver uma aplicação frontend que cumpra os 
 - 8. ordenando menu
 - 
 #### Flexbox e desafios (feature/flexbox-challenge-5)
-- 1. esclarecer
+- 1. esclarecer o projeto
 - 2. propriedades flex
 - 3. desafios
 - 4. preenchimento dos espaços vazios
