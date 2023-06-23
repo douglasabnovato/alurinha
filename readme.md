@@ -26,6 +26,16 @@ Nesse projeto vamos focar em desenvolver uma aplicação frontend cumpra os requ
 - 3. grid
 - 4. espaçamento grid
 - 5. espaçamento em detalhe
+- 
+#### Flexbox e Mobile (feature/flexbox-mobile-4)
+- 1. responsivo
+- 2. mobile
+- 3. flex order
+- 4. vídeo
+- 5. responsividade
+- 6. fluxo desktop para mobile
+- 7. flex container e flex items
+- 8. ordenando menu
 
 ### Versões do projeto
 
